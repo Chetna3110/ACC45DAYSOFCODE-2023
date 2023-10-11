@@ -1,0 +1,7 @@
+include <stdio.h>
+
+int main() {
+    printf("good morning people");
+
+    return 0;
+}
