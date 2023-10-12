@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    
+    int a=16;
+    int b=19;
+    int c;
+    c=a & b;
+    printf("%d\n",c);
+
+    return 0;
+}
